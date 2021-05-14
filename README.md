@@ -1,2 +1,2 @@
 # iPhonefbc
-iPhone bought locaiton
+Locating the Purchase
